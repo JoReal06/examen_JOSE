@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen_JOSE", "examen_JOSE\examen_JOSE.csproj", "{3009FF82-4BBA-424E-BB4F-5C969F59AD54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "promedio", "promedio\promedio.csproj", "{E8B08356-B6FD-4998-AF20-A7612DC7AA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3009FF82-4BBA-424E-BB4F-5C969F59AD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3009FF82-4BBA-424E-BB4F-5C969F59AD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3009FF82-4BBA-424E-BB4F-5C969F59AD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3009FF82-4BBA-424E-BB4F-5C969F59AD54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B08356-B6FD-4998-AF20-A7612DC7AA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B08356-B6FD-4998-AF20-A7612DC7AA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B08356-B6FD-4998-AF20-A7612DC7AA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B08356-B6FD-4998-AF20-A7612DC7AA86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10556B11-AC5E-49B2-8F27-C64C4EEBF06D}
+	EndGlobalSection
+EndGlobal
